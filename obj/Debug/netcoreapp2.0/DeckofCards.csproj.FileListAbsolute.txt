@@ -1,0 +1,11 @@
+C:\Users\Kyle\Documents\C#-.NET\DeckofCards\obj\Debug\netcoreapp2.0\DeckofCards.csprojResolveAssemblyReference.cache
+C:\Users\Kyle\Documents\C#-.NET\DeckofCards\obj\Debug\netcoreapp2.0\DeckofCards.csproj.CoreCompileInputs.cache
+C:\Users\Kyle\Documents\C#-.NET\DeckofCards\obj\Debug\netcoreapp2.0\DeckofCards.AssemblyInfoInputs.cache
+C:\Users\Kyle\Documents\C#-.NET\DeckofCards\obj\Debug\netcoreapp2.0\DeckofCards.AssemblyInfo.cs
+C:\Users\Kyle\Documents\C#-.NET\DeckofCards\bin\Debug\netcoreapp2.0\DeckofCards.deps.json
+C:\Users\Kyle\Documents\C#-.NET\DeckofCards\bin\Debug\netcoreapp2.0\DeckofCards.runtimeconfig.json
+C:\Users\Kyle\Documents\C#-.NET\DeckofCards\bin\Debug\netcoreapp2.0\DeckofCards.runtimeconfig.dev.json
+C:\Users\Kyle\Documents\C#-.NET\DeckofCards\bin\Debug\netcoreapp2.0\DeckofCards.dll
+C:\Users\Kyle\Documents\C#-.NET\DeckofCards\bin\Debug\netcoreapp2.0\DeckofCards.pdb
+C:\Users\Kyle\Documents\C#-.NET\DeckofCards\obj\Debug\netcoreapp2.0\DeckofCards.dll
+C:\Users\Kyle\Documents\C#-.NET\DeckofCards\obj\Debug\netcoreapp2.0\DeckofCards.pdb
